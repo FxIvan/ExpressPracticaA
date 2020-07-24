@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nombre": "Computadora Lenovo",
+        "categoria": "Computadoras"
+    },
+    {
+        "id": 2,
+        "nombre": "Computadora Samsung",
+        "categoria": "Computadoras"
+    },
+    {
+        "id": 3,
+        "nombre": "Pendrive",
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 4,
+        "nombre": "Mouse Bluetooth",
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 5,
+        "nombre": "PlayStation 5",
+        "categoria": "Consolas"
+    },
+    {
+        "id": 6,
+        "nombre": "Joystick PS5",
+        "categoria": "Consolas"
+    }
+
+]

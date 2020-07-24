@@ -1,0 +1,12 @@
+1.crear app.js
+2.npm init  | o | npm init -y
+3.Instalar express (npm i express)
+
+4.Inicializar git ---->   git init
+5.Crear Repo en GitHub
+6.unir repo local con repo en GiHub --> git add origin https://...
+
+x.....
+
+
+y. Subir el TP a GitHub --> (git add . / git commit -m" " / git push origin master)
